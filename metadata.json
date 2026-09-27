@@ -1,0 +1,6 @@
+{
+  "name": "Studio Pro V1",
+  "description": "Offline Llama-powered Android APK Studio to generate, edit, preview, and package APK files from prompts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

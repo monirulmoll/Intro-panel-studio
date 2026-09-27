@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Studio Pro V1</string>
+    <string name="studio_tagline">Offline Llama APK Synthesizer &amp; IDE</string>
+    <string name="tab_forge">Prompt Forge</string>
+    <string name="tab_ide">Code &amp; Preview</string>
+    <string name="tab_apk_builder">APK Builder</string>
+    <string name="tab_llama_hub">Llama Offline</string>
+    <string name="btn_generate_project">Synthesize Project with Llama</string>
+    <string name="btn_build_apk">Compile &amp; Sign APK</string>
+    <string name="btn_export_apk">Save .APK to Device</string>
+    <string name="btn_import_gguf">Import Local .GGUF Model</string>
+    <string name="prompt_hint">Describe the Android app you want to build into an APK (e.g., Offline Expense Tracker with biometric lock, neon dark UI, and CSV export)…</string>
+</resources>
